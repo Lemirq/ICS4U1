@@ -6,7 +6,7 @@ import java.util.HashMap;
 public class Lesson5 {
     public static void main(String[] args) {
         Lesson5 lesson5 = new Lesson5();
-        lesson5.testTranslateToSpanish();
+        lesson5.breakOuterLoop();
 
     }
 
@@ -186,5 +186,18 @@ public class Lesson5 {
             total += num;
         }
         return total / numbers.length;
+    }
+
+    // write a thingy to break out of an outer loop from an inner loop
+    void breakOuterLoop() {
+        outerloop: for (int i = 0; i < 5; i++) {
+            for (int j = 0; j < 5; j++) {
+                if (i * j > 6) {
+                    System.out.println("Breaking out of the outer loop");
+                    break outerloop;
+                }
+                System.out.println(i + " " + j);
+            }
+        }
     }
 }

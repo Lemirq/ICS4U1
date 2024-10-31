@@ -1,0 +1,6 @@
+A Haiku:
+Line 1: Three things are certain:
+Line 2: Death, taxes, and lost data.
+Line 3: Guess which has occurred.
+
+The End

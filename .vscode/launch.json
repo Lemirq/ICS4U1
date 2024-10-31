@@ -1,0 +1,154 @@
+{
+	// Use IntelliSense to learn about possible attributes.
+	// Hover to view descriptions of existing attributes.
+	// For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"type": "java",
+			"name": "PayrollSystem",
+			"request": "launch",
+			"mainClass": "UnrealComputer.PayrollSystem",
+			"projectName": "ICS4U1_aba38f20"
+		},
+		{
+			"type": "java",
+			"name": "ClassesAndObjects",
+			"request": "launch",
+			"mainClass": "OOP.ClassesAndObjects",
+			"projectName": "ICS4U1_aba38f20"
+		},
+		{
+			"type": "java",
+			"name": "StoreInventory",
+			"request": "launch",
+			"mainClass": "StoreInventory.StoreInventory",
+			"projectName": "ICS4U1_aba38f20"
+		},
+		{
+			"type": "java",
+			"name": "Arr",
+			"request": "launch",
+			"mainClass": "OOP.Arr",
+			"projectName": "ICS4U1_aba38f20"
+		},
+		{
+			"type": "java",
+			"name": "Western",
+			"request": "launch",
+			"mainClass": "OOP.Western",
+			"projectName": "ICS4U1_aba38f20"
+		},
+		{
+			"type": "java",
+			"name": "ArrayList",
+			"request": "launch",
+			"mainClass": "OOP.ArrayList",
+			"projectName": "ICS4U1_aba38f20"
+		},
+		{
+			"type": "java",
+			"name": "ReadFile",
+			"request": "launch",
+			"mainClass": "Unit1.ReadFile",
+			"projectName": "ICS4U1_aba38f20"
+		},
+		{
+			"type": "java",
+			"name": "Largest",
+			"request": "launch",
+			"mainClass": "Unit1.Largest",
+			"projectName": "ICS4U1_aba38f20"
+		},
+		{
+			"type": "java",
+			"name": "RPSLS",
+			"request": "launch",
+			"mainClass": "Unit1.RPSLS",
+			"projectName": "ICS4U1_aba38f20"
+		},
+		{
+			"type": "java",
+			"name": "Review",
+			"request": "launch",
+			"mainClass": "Unit1.Review",
+			"projectName": "ICS4U1_aba38f20"
+		},
+		{
+			"type": "java",
+			"name": "Lesson8",
+			"request": "launch",
+			"mainClass": "Unit1.Lesson8",
+			"projectName": "ICS4U1_aba38f20"
+		},
+		{
+			"type": "java",
+			"name": "Current File",
+			"request": "launch",
+			"mainClass": "${file}"
+		},
+		{
+			"type": "java",
+			"name": "App",
+			"request": "launch",
+			"mainClass": "App",
+			"projectName": "ICS4U1_aba38f20"
+		},
+		{
+			"type": "java",
+			"name": "Calculator",
+			"request": "launch",
+			"mainClass": "Unit1.Calculator",
+			"projectName": "ICS4U1_aba38f20"
+		},
+		{
+			"type": "java",
+			"name": "FileReaderExample",
+			"request": "launch",
+			"mainClass": "Unit1.FileReaderExample",
+			"projectName": "ICS4U1_aba38f20"
+		},
+		{
+			"type": "java",
+			"name": "Gemini",
+			"request": "launch",
+			"mainClass": "Unit1.Gemini",
+			"projectName": "ICS4U1_aba38f20"
+		},
+		{
+			"type": "java",
+			"name": "GradeBook",
+			"request": "launch",
+			"mainClass": "Unit1.GradeBook",
+			"projectName": "ICS4U1_aba38f20"
+		},
+		{
+			"type": "java",
+			"name": "Lesson2",
+			"request": "launch",
+			"mainClass": "Unit1.Lesson2",
+			"projectName": "ICS4U1_aba38f20"
+		},
+		{
+			"type": "java",
+			"name": "Lesson3",
+			"request": "launch",
+			"mainClass": "Unit1.Lesson3",
+			"projectName": "ICS4U1_aba38f20"
+		},
+		{
+			"type": "java",
+			"name": "Lesson4",
+			"request": "launch",
+			"mainClass": "Unit1.Lesson4",
+			"projectName": "ICS4U1_aba38f20"
+		},
+		{
+			"type": "java",
+			"name": "Lesson5",
+			"request": "launch",
+			"mainClass": "Unit1.Lesson5",
+			"projectName": "ICS4U1_aba38f20"
+		}
+	]
+}
